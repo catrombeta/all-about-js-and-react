@@ -1,0 +1,11 @@
+Essa aula foi para falar sobre comentários no código de JS. Paga comentários mais longos eu posso utilizar:
+
+
+/*
+
+
+comentário longo
+
+
+
+*/

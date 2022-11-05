@@ -1,0 +1,6 @@
+alert('Mensagenzinhasquis');
+
+window.confirm('Are you sure you want to continue?');
+
+window.prompt('Text your name'); // permite o usuário escrever
+
