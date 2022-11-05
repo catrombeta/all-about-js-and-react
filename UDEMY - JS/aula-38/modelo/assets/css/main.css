@@ -1,0 +1,56 @@
+:root {
+    --primary-color: rgb(13, 83, 100);
+    --primary-color-darker: rgb(3, 40, 49);
+}
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary-color);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+}
+
+.container {
+    max-width: 640px;
+    margin: 20px auto;
+    background-color: rgb(250, 250, 250);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+form input, form button, form label {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form input {
+    font-size: 24px;
+    height: 50px;
+    padding: 0 20px;
+}
+
+form input:focus {
+    outline: 1px solid var(--primary-color);   
+}
+
+form button {
+    background-color: var(--primary-color);
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    height: 50px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: var(--primary-color-darker);
+}
