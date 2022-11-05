@@ -1,0 +1,15 @@
+DOM - document object model
+
+O objeto WINDOW é o objeto principal, ou seja, pai de todos.
+
+Árvore DOM 
+
+1 window
+    2 #document
+        3 html
+            4 head
+                5 várias childs específicas da head
+            4 body
+                - EXEMPLOS -
+                5 section
+                    6 h1 (text node)
