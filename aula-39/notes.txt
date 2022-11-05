@@ -1,0 +1,9 @@
+// CICLO WHILE OU DO WHILE
+
+- nunca esquecer de colocar uma condição para limitar o ciclo, por exemplo: i <= 10. Se eu não colocar a condição para limitar ele entra num ciclo INFINITO e então vai bugar o computador todo kkkrying
+
+A diferença entre WHILE e DO-WHILE é que a WHILE chega a condição
+primeiro e depois executa o laço. O DO-WHILE executa primeiro para depois checar a condição.
+
+WHILE - ENQUANTO
+DO/WHILE - FAÇA/CONDIÇÃO
