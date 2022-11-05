@@ -1,0 +1,4 @@
+BREAK E CONTINUE
+
+CONTINUE - ele pula para a proxima iteração, ou seja... não executa aquele valor, mas continua checando o restante
+BREAK - para a checagem a partir do momento que encontra o valor pretendido
