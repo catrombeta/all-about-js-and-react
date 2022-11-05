@@ -1,0 +1,9 @@
+NONDEList - exercício
+
+Se comporta muito igual a um array. Então por exemplo... se eu realizar o comando "paragrafos.querySelectorAll('p');" ele irá me retornar uma NodeList com 4 índices (tenho 4 paragrafos).
+
+Alguns comandos que possam ser úteis:
+- paragrafos[1] (me retornaria o índice 1)
+- paragrafos.lengh (me retornaria o tamanho do array, ou seja, 4 que é quantos índices eu possuo)
+
+O exercício é modificar o background color dos paragrafos. Com adendo de poder modificar a cor do texto também.
