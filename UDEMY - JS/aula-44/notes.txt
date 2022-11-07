@@ -1,0 +1,6 @@
+Aula de entendimento dos erros e seus tratamentos
+
+- try (tente executar isso)
+-catch (se não conseguir faça isso)
+- throw
+
