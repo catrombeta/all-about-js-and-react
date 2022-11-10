@@ -1,0 +1,53 @@
+:root {
+    --primary-color: rgb(13, 83, 100);
+    --primary-color-darker: rgb(3, 40, 49);
+}
+
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary-color);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+}
+
+.container {
+    max-width: 640px;
+    margin: 20px auto;
+    background-color: rgb(250, 250, 250);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.calculadora {
+    width: 400px;
+}
+
+.display {
+    font-size: 2em;
+    width: 100%;
+    text-align: right;
+}
+
+.btn {
+    height: 50px;
+    font-size: 1em;
+    border: none;
+    background-color: #dfdfdf;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: #929191;
+}
+
+.btn-eq {
+    background: royalblue;
+}
